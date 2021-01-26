@@ -30,4 +30,3 @@ resources = {
     "coffee": 100,
 }
 # TODO: 1. taking order from customer. Giving 3 options and using resources.
-taking_order=input("What would you like? (espesso/latte/cappuccino): ")
