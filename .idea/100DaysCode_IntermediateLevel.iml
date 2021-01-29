@@ -7,5 +7,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="100DaysCode_BeginnerLevel" />
+    <orderEntry type="module" module-name="oop-coffee-machine-start" />
+    <orderEntry type="module" module-name="Day17" />
   </component>
 </module>
